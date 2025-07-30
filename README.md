@@ -180,7 +180,7 @@ src/
 
 ## 🌐 Live Demo
 
-The website is deployed and available at: [https://michaealandeagle.netlify.app/](https://michaealandeagle.netlify.app/)
+The website is deployed and available at: [https://michaelandeagle.netlify.app/](https://michaelandeagle.netlify.app/)
 
 ## 📝 Notes
 
