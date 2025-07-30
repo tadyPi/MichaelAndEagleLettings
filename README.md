@@ -29,13 +29,13 @@ The design follows modern web standards with:
 ## 🛠️ Tech Stack
 
 ### Frontend Framework
-- **React 18.3.1** - Modern React with hooks and functional components
-- **TypeScript 5.5.3** - Type safety and better developer experience
-- **Vite 5.4.2** - Fast build tool and development server
+- **React** - Modern React with hooks and functional components
+- **TypeScript** - Type safety and better developer experience
+- **Vite** - Fast build tool and development server
 
 ### Styling & UI
-- **Tailwind CSS 3.4.1** - Utility-first CSS framework
-- **Lucide React 0.344.0** - Beautiful, customizable icons
+- **Tailwind CSS** - Utility-first CSS framework
+- **Lucide React** - Beautiful, customizable icons
 - **Custom Color Palette** - Navy, light blue, and neutral tones
 - **Responsive Breakpoints** - Mobile-first design approach
 
@@ -180,7 +180,7 @@ src/
 
 ## 🌐 Live Demo
 
-The website is deployed and available at: [https://celadon-sherbet-553a91.netlify.app](https://celadon-sherbet-553a91.netlify.app)
+The website is deployed and available at: [https://michaealandeagle.netlify.app/](https://michaealandeagle.netlify.app/)
 
 ## 📝 Notes
 
