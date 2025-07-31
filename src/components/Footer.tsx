@@ -115,15 +115,16 @@ const Footer: React.FC = () => {
 
         {/* Bottom Footer */}
         <div className="border-t border-gray-800 dark:border-slate-800 py-8">
- <div className="border-t border-gray-800 dark:border-gray-700 mt-8 pt-8 transition-colors duration-300">
+          <div className="border-t border-gray-800 dark:border-gray-700 mt-8 pt-8 transition-colors duration-300">
             <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
               <p className="text-gray-400 dark:text-gray-500 transition-colors duration-300">
                 design and development by <a href="https://www.loadofpixels.com" target="_blank" rel="noopener noreferrer" className="text-white font-medium hover:text-indigo-500 hover:underline transition-colors">Load of Pixels</a>
               </p>
               <p className="text-gray-400 dark:text-gray-500 transition-colors duration-300 hidden lg:block">
-                © 2025 Valley Builders Merchants Ltd.
+                © 2025 Michael and Eagle lettings.
               </p>
             </div>
+          </div>
         </div>
       </div>
     </footer>
