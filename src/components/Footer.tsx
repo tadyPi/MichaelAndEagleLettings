@@ -115,22 +115,15 @@ const Footer: React.FC = () => {
 
         {/* Bottom Footer */}
         <div className="border-t border-gray-800 dark:border-slate-800 py-8">
-          <div className="flex flex-col md:flex-row justify-between items-center">
-            <p className="text-gray-400 text-sm mb-4 md:mb-0">
-              © 2024 Michael & Eagle Lettings. All rights reserved.
-            </p>
-            <div className="flex space-x-6 text-sm">
-              <a href="#" className="text-gray-400 hover:text-lightblue-400 transition-colors duration-200">
-                Privacy Policy
-              </a>
-              <a href="#" className="text-gray-400 hover:text-lightblue-400 transition-colors duration-200">
-                Terms of Service
-              </a>
-              <a href="#" className="text-gray-400 hover:text-lightblue-400 transition-colors duration-200">
-                Cookie Policy
-              </a>
+ <div className="border-t border-gray-800 dark:border-gray-700 mt-8 pt-8 transition-colors duration-300">
+            <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
+              <p className="text-gray-400 dark:text-gray-500 transition-colors duration-300">
+                design and development by <a href="https://www.loadofpixels.com" target="_blank" rel="noopener noreferrer" className="text-white font-medium hover:text-indigo-500 hover:underline transition-colors">Load of Pixels</a>
+              </p>
+              <p className="text-gray-400 dark:text-gray-500 transition-colors duration-300 hidden lg:block">
+                © 2025 Valley Builders Merchants Ltd.
+              </p>
             </div>
-          </div>
         </div>
       </div>
     </footer>
