@@ -71,7 +71,7 @@ const Header: React.FC = () => {
 
         {/* Mobile Navigation */}
         {isMenuOpen && (
-          <nav className="md:hidden py-4 border-t border-gray-200 dark:border-gray-700">
+          <nav className="lg:hidden py-4 border-t border-gray-200 dark:border-gray-700">
             {navigation.map((item) => (
               <a
                 key={item.name}
