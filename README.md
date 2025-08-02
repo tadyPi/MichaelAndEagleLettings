@@ -2,6 +2,7 @@
 
 A modern, responsive website mockup for Michael & Eagle Lettings, a professional property management company. This project showcases a complete property management business website with premium design aesthetics and full responsiveness.
 <img width="1907" height="848" alt="Screenshot 2025-08-02 132602" src="https://github.com/user-attachments/assets/958abb39-0700-4f96-82fa-afbb3e816281" />
+## 🏢 Custom Dark and Light mode
 <img width="1884" height="849" alt="Screenshot 2025-08-02 132640" src="https://github.com/user-attachments/assets/87a1412e-0336-44fb-aad5-258f66e48432" />
 
 ## 🏢 About the Project
