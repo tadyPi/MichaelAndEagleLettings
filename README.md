@@ -4,9 +4,7 @@ A modern, responsive website mockup for Michael & Eagle Lettings, a professional
 
 
 ### Custom dark and lights modes
-
-<img width="1380" height="1043" alt="m e-hero-image" src="https://github.com/user-attachments/assets/bde0013b-bb64-415c-8c94-3b3ca982324b" />
-
+<img width="3125" height="1384" alt="lightMode-mel" src="https://github.com/user-attachments/assets/7b6b5f86-f142-4ca1-88d3-f5b623d37434" />
 
 
 
